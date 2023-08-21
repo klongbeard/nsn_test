@@ -24,7 +24,7 @@ Once you've completed the task, please zip up your final files and email them ba
 4. In the footer, could you move home, privacy, terms and contact over to the right
 5. Could you make the footer links white as well please
 6. I can't remember how we got the home icon there. But could you find out and pick some appropriate icons to add to privacy, terms and contact as well please.
-7. Can you make it so the links are cantered in a new line in the footer on mobile
+7. Can you make it so the links are centered in a new line in the footer on mobile
 8. Can we display the university results in a grid, four per line, rather than in a row.
 9. Can we format the results more nicely. Maybe make the university name bigger and bolder and in a different colour.
 10. Can we make it so that on a mobile phone they display in a single column though.
