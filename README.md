@@ -1,6 +1,6 @@
 ## Thoughts, Outcomes, etc.
 
-Overall I compeleted 18/20 tasks in about 2hr 20mins. I know the suggested time was 2 hours, but I got a flow going and was happy to do a little bit more to see how much I could complete. 
+Overall I compeleted 18/20 tasks in about 2hr 20mins. I know the suggested time was 2 hours, but I got a flow going and was happy to do a little bit more to see how much I could get done. 
 
 Below is a complete list of what I completed:
 
