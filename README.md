@@ -2,7 +2,7 @@
 
 Overall I compeleted 18/20 tasks in about 2hr 20mins. I know the suggested time was 2 hours, but I got a flow going and was happy to do a little bit more to see how much I could get done. 
 
-Below is a complete list of what I completed:
+Below is a list of what I completed:
 
 - [x] Add more padding around the header
 - [x] There should be a border under the header but it doesn't seem to be working. Could you fix this please?
