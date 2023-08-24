@@ -1,1 +1,28 @@
 .has-border-bottom-black{ border-bottom:1px soid black }
+
+
+#header {
+    padding: 1.5rem;
+    border-bottom: 1px solid;
+}
+
+#results {
+    margin-top: 1rem;
+}
+
+#footer a {
+    color: #f5f5f5;
+}
+
+a.box {
+    width: auto; 
+    float: left;
+}
+
+a.box:last-child {
+    clear: right;
+}
+
+.card-footer {
+    clear: both;
+}
